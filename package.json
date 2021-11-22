@@ -1,0 +1,26 @@
+{
+  "name": "project-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caotvbhaf/Project-NodeJS.git"
+  },
+  "author": "CaoTV11",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caotvbhaf/Project-NodeJS/issues"
+  },
+  "homepage": "https://github.com/caotvbhaf/Project-NodeJS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
